@@ -1,3 +1,2 @@
 # Factory-Emission-Visualiser
-This contains the code to dispay the emission score of an area along with the average surface temperatures using streamlit, numpy, matplotlib, folium, Landsat dataset, and IsolationForest
-The json file is not included for privacy purposes
+The Factory Emissions Visualizer is a web-based dashboard that helps monitor and analyze industrial emission data. It provides interactive charts and metrics to better understand environmental impact and identify areas for improvement. This repository contains the code to dispay the emission score of an area along with the average surface temperatures using streamlit, numpy, matplotlib, folium, Landsat dataset, and Isolation Forest. The json file is not included for privacy purposes
